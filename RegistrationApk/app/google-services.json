@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "959033713346",
+    "project_id": "registrationapk",
+    "storage_bucket": "registrationapk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959033713346:android:e76a98f627042c95da915b",
+        "android_client_info": {
+          "package_name": "com.example.registrationapk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQsUoqjO6-4GTT2lPFabR6euJsP9bV_JI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
